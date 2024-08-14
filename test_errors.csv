@@ -1,23 +1,22 @@
-timeStamp,label,responseCode,responseMessage,URL
-1723026967577,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233432
-1723026994587,CP02_AC01_BuscarCliente_filtro,502,Error 502,https://host-test.com/login/id=233434
-1723027001578,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233436
-1723027032587,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233438
-1723027044576,CP02_AC01_BuscarCliente_filtro,403,Error 403,https://host-test.com/login/id=233440
-1723027045594,CP02_AC01_BuscarCliente_filtro,403,Error 403,https://host-test.com/login/id=233442
-1723027052586,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233444
-1723027059584,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233446
-1723027078586,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233448
-1723027097582,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233450
-1723027101585,CP02_AC01_BuscarCliente_filtro,502,Error 502,https://host-test.com/login/id=233452
-1723027101585,CP02_AC01_BuscarCliente_filtro,502,Error 502,https://host-test.com/login/id=233454
-1723027102581,CP02_AC01_BuscarCliente_filtro,502,Error 502,https://host-test.com/login/id=233456
-1723027111592,CP02_AC01_BuscarCliente_filtro,502,Error 502,https://host-test.com/login/id=233458
-1723027116591,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233460
-1723027133587,CP02_AC01_BuscarCliente_filtro,502,Error 502,https://host-test.com/login/id=233462
-1723027143587,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233464
-1723027151585,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233466
-1723027152584,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233468
-1723027159583,CP02_AC01_BuscarCliente_filtro,502,Error 502,https://host-test.com/login/id=233470
-1723027164577,CP02_AC01_BuscarCliente_filtro,403,Error 403,https://host-test.com/login/id=233472
-1723027176610,CP01_AC02_Login_credentials,500,Your custom response message,https://host-test.com/login/id=233474
+TimeStamp,Label,Response Code,Response Message,URL,Count
+1723026967577,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
+1723026994587,CP02_AC01_BuscarCliente_filtro,502,Your custom response message,null,1
+1723027001578,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
+1723027032587,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
+1723027044576,CP02_AC01_BuscarCliente_filtro,403,Your custom response message,null,1
+1723027045594,CP02_AC01_BuscarCliente_filtro,403,Your custom response message,null,1
+1723027052586,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
+1723027059584,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
+1723027078586,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
+1723027097582,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
+1723027101585,CP02_AC01_BuscarCliente_filtro,502,Your custom response message,null,2
+1723027102581,CP02_AC01_BuscarCliente_filtro,502,Your custom response message,null,1
+1723027111592,CP02_AC01_BuscarCliente_filtro,502,Your custom response message,null,1
+1723027116591,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
+1723027133587,CP02_AC01_BuscarCliente_filtro,502,Your custom response message,https://host_tets.com/login,1
+1723027143587,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
+1723027151585,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
+1723027152584,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
+1723027159583,CP02_AC01_BuscarCliente_filtro,502,Your custom response message,null,1
+1723027164577,CP02_AC01_BuscarCliente_filtro,403,Your custom response message,null,1
+1723027176610,CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,1
