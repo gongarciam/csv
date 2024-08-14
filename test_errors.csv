@@ -1,5 +1,5 @@
-Label,,Count,Percentage,Response Code,Response Message,URL
-CP01_AC02_Login_credentials,12,54.55%,500,Internal Server Error,https://host_tets.com/login
-CP02_AC01_BuscarCliente_filtro,6,27.27%,502,Your custom response message,null
-CP02_AC01_BuscarCliente_filtro,3,13.64%,403,Your custom response message,null
-CP02_AC01_BuscarCliente_filtro,1,4.55%,502,Your custom response message,https://host_tets.com/login
+Label,Response Code,Response Message,URL,Count,Percentage
+CP01_AC02_Login_credentials,500,Internal Server Error,https://host_tets.com/login,12,54.55%
+CP02_AC01_BuscarCliente_filtro,502,Your custom response message,null,6,27.27%
+CP02_AC01_BuscarCliente_filtro,403,Your custom response message,null,3,13.64%
+CP02_AC01_BuscarCliente_filtro,502,Your custom response message,https://host_tets.com/login,1,4.55%
